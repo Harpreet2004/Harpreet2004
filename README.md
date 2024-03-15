@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpreet2004&label=Profile%20views&color=0e75b6&style=flat" alt="harpreet2004" /> </p>
 
-- 🎯 I’m currently learning **Javascript, React JS, DSA**
+- 🎯 I’m currently learning **React JS, DSA**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **harpreetsinghk2004@gmail.com**
 
