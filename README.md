@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Harpreet Singh, a Full Stack Web Developer:
 🚀 I am currently working on Front end Web development<br>😇 Let's collaborate in Web Development<br>
 
 
